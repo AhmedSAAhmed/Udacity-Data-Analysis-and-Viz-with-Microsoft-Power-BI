@@ -28,8 +28,7 @@ Nanodegree Projects
 
 -----------------------------------------------------------------------------
 
-Nanodegree Certificate
-
-[power.bi.nano.degree.pdf](https://github.com/AhmedSAAhmed/Udacity-Data-Analysis-and-Viz-with-Microsoft-Power-BI/files/12909312/power.bi.nano.degree.pdf)
+Nanodegree Certificate [power.bi.nano.degree (1).pdf](https://github.com/AhmedSAAhmed/Udacity-Data-Analysis-and-Viz-with-Microsoft-Power-BI/files/12909338/power.bi.nano.degree.1.pdf)
 
 
+![power bi nano degree_page-0001](https://github.com/AhmedSAAhmed/Udacity-Data-Analysis-and-Viz-with-Microsoft-Power-BI/assets/91282437/86e4006c-377e-4953-8202-c318dbd7b8ad)
