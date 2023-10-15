@@ -17,8 +17,9 @@ Covers: a variety of common and more advanced data visualizations, how to design
 
 Covers: an introduction to data analysis looking at different terms and techniques such as descriptive and inferential statistics, histograms, linear regression and an introduction to the concepts of correlation and probability. After taking the introductory lessons on data analytics, the course then moves to M, the language of Power Query, and learning to build custom formulas as part of the data transformation process. The overarching goal of the course is to help students become effective at the process of retrieving, analyzing and visualizing data in order to answer questions and draw conclusions.
 
-Nanodegree Projects
-Project No.	Project
-01	Build a Data Model for Seven Sages Brewing Company
-02	Building a Power BI Report for Waggle
-03	Market Analysis Report for National Clothing Chain
+Nanodegree Projects	
+| Project No.  | Project |
+| 01  | Build a Data Model for Seven Sages Brewing Company  |
+| 02  | Building a Power BI Report for Waggle |
+| 03  | Market Analysis Report for National Clothing Chain  |
+
